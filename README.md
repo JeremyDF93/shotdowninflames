@@ -6,3 +6,5 @@ react to any image with ℹ️ and it'll make an attempt to extract the textual 
 create `.env` and put your `TOKEN="SeCReT"` in it
 
 I thought it was a cool idea...
+
+![Prompt](/docs/img/prompt.png)
